@@ -1,6 +1,5 @@
 # Hello there,
 
 :woman: My name is Dilla \
-:purple_heart: I am hobbyist coder\
-:floppy_disk: Work with PHP and Javascript \
+:floppy_disk: Work with PHP, Typescript and Javascript \
 :blue_heart: Nice to meet you :blush:
